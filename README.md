@@ -11,7 +11,8 @@ Results:
 Significant clustering of Data due to countries
 Unable to find any significant relationships
 Low R-squared value 
-Low * 
+Low *s 
+
 
 Variables: 
 GDPPPP - Gross Domestic Product (purchasing power parity) 
@@ -19,3 +20,5 @@ GDP - Gross Domestic Product
 IR - Inflation Rate 
 UR - Unemployment Rate 
 IPR - Internet Penetration Rate 
+LR - Literacy Rate 
+AP - Air Pollution Rate
